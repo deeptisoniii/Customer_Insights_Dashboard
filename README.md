@@ -1,7 +1,7 @@
 # Customer_Insights_Dashboard
 # Dashboard Objective:
-Analyze customer behavior and purchasing patterns across different channels
-Track key sales KPIs and identify trends to support data-driven decision-making
+**1.**Analyze customer behavior and purchasing patterns across different channels.
+**2.**Track key sales KPIs and identify trends to support data-driven decision-making
 
 # Importance of Data Analysis:
 Identify trends in sales, order size, and shipment duration
